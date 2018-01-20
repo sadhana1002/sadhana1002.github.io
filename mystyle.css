@@ -1,0 +1,185 @@
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.name-title{
+    font-size: 20px;
+    font-weight: 700;
+    font-stretch: extra-condensed;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.empty-50{
+    height: 50px;
+    content:none;
+}
+
+.inner-p{
+    margin: 5px 5px 5px 5px;
+    padding:20px;
+    font-size:12px;
+    text-align: left justify;
+}
+
+img#profile_pic {
+    max-width: 100%;
+    max-height: 100%;
+    filter: alpha(opacity=90);
+    float: left;
+    size: 70px 70px;
+    border-radius: 100%;
+    padding:5px;
+
+}
+
+#maindiv{
+    
+    overflow: auto;
+   
+    padding: 5px;
+}
+
+
+a {
+    text-decoration:none;
+ }
+
+.main-heading {
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    color:whitesmoke;
+    font-stretch: narrower;
+    padding:5% 2% 5% 2%;
+    font-size: 24px;
+    max-height: 100%;
+    text-decoration:none;
+}
+
+.xs-heading {
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    color:whitesmoke;
+    font-stretch: narrower;
+    padding:5% 2% 5% 2%;
+    font-size: 20px;
+    max-height: 100%;
+    text-decoration:none;
+}
+
+.small-main-heading {
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    color:whitesmoke;
+    font-stretch: narrower;
+    text-align:right;
+    padding:2px;
+    font-size: 16px;
+    max-height: 100%;
+    text-decoration:none;
+}
+
+
+.header-content{
+    position: relative;
+    width: 100%;
+    padding: 75px 75px;
+    text-align: center;
+    align-content: center;
+    font-style: bold;
+    font-size: 40px;
+}
+
+.header-content-inner {
+    font-family: 'Allan';
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color:black;
+    align-content: center;
+    font-size: 20px;
+    padding:50px 50px;
+    background-color:whitesmoke;
+    box-shadow: 5px 5px 5px 0px #ccc;
+    opacity: 0.8;
+    margin:15px;
+}
+
+.box-masonry{
+    align-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    border: 2px whitesmoke;
+    box-shadow: 5px 5px 5px 0px #ccc;
+    padding:20px;
+    margin: 20px 10px 10px 2px;
+}
+
+.box-content{
+    font-size: 12px;
+    padding-top:10px;
+}
+
+.side-contact{
+    
+    align-content: center;
+    padding-left:10px;
+
+}
+
+.main-page{
+    background-color:white;
+}
+
+.icon-right{
+    align-content: left;
+}
+
+.right-social{
+    text-align:right;
+}
+
+.icons-social{
+    color:gray;
+    padding:30px 25px;
+    margin: 2px 2px 2px 2px;
+    font-size: 30px;
+    
+}
+
+
+.social{
+    padding:10px;
+    margin: 2px 2px 2px 2px;
+}
+
+.top-banner{
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    background-color:rgb(39, 113, 173);
+    position: relative;
+    font-size: 30px;
+    box-shadow: 2px 2px 5px #ccc;  
+    height: 80px;
+}
+
+body {
+    overflow-y:auto;
+  }
+
+.dim{
+    color:gray;
+}
+
+.empty-box{
+    margin: 2px 2px 2px 2px;
+    padding: 5px 2px 5px 2px;
+    background-color: #f4f4f4;
+}
+
+
